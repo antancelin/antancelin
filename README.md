@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Antoine, an AI developer student from ISEN x Simplon by Microsoft & also alternating studen as a Data Scientist for French Bank.
+
 <!--
 **antancelin/antancelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
