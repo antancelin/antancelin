@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Antoine, an AI developer student from ISEN x Simplon by Microsoft & also alternating studen as a Data Scientist for French Bank.
+I'm Antoine, an AI developer student from ISEN x Simplon by Microsoft & also alternating student as a Data Scientist for a French Bank.
+
+I'm also learning frontend dev. & design by myself. 🖥
 
 <!--
 **antancelin/antancelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
