@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Antoine, AI developer student from ISEN x Simplon by Microsoft & also alternating student as Data Scientist for a french bank.
+I'm Antoine, AI developer student from ISEN x Simplon by Microsoft & alternating student as Data Scientist for a french bank.
 
 I'm also learning frontend dev. & design by myself. 🖥
 
