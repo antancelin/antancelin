@@ -4,6 +4,8 @@ I'm Antoine, AI engineer student from ISEN x Simplon by Microsoft & alternating 
 
 Also learning full-stack engineering by myself. 🖥
 
+🔭 I’m currently working on a global data science + development project.
+
 <!--
 **antancelin/antancelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
