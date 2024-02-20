@@ -6,8 +6,6 @@ I’m currently working on a global data science + development project. 🔭
 
 Also learning full-stack engineering by myself. 🖥
 
-<a href="https://app.daily.dev/antancelin"><img src="./devcard.png" width="356" alt="Antoine Ancelin's Dev Card"/></a>
-
 <!--
 **antancelin/antancelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
