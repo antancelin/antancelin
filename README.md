@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Antoine, AI engineer. ⚛️
+I'm Antoine, AI developer. ⚛️
 
 I’m currently also learning full-stack engineering. 🖥
 
