@@ -2,7 +2,7 @@
 
 I'm Antoine, AI developer. ⚛️
 
-I’m currently also learning full-stack engineering. 🖥
+I’m also currently learning full-stack engineering w/ [Codecademy](https://www.codecademy.com/). 🖥
 
 <!--
 **antancelin/antancelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
