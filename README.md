@@ -27,9 +27,6 @@ Hi there 👋<br><br>I'm Antoine, AI developer. ⚛️<br><br>I’m currently le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=antancelin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 <br>
-![](https://github-readme-stats.vercel.app/api?username=antancelin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br>
-<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=antancelin&theme=dark&hide_border=false)
 
 ### 🔝 Top Contributed Repo
