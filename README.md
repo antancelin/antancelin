@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me:
-Hi there 👋<br><br>I'm Antoine, AI developer. ⚛️<br><br>I’m currently learning full-stack engineering w/ [Codecademy](www.codecademy.com). 🖥
+Hi there 👋<br><br>I'm Antoine, AI developer. ⚛️<br><br>I’m currently learning full-stack engineering w/ [Codecademy](https://www.codecademy.com). 🖥
 
 <br>
 
