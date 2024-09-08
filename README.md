@@ -2,10 +2,10 @@
 Hi there 👋<br><br>I'm Antoine, AI developer. ⚛️<br><br>I’m currently learning full-stack engineering w/ Codecademy. 🖥
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antancelin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/antancelin)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antancelin)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@antancelin)
+### 🌐 Socials:
+[linkedin](https://linkedin.com/in/antancelin) [twitter](https://x.com/antancelin) [instagram](https://instagram.com/antancelin)
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
 <br>
@@ -22,15 +22,9 @@ Hi there 👋<br><br>I'm Antoine, AI developer. ⚛️<br><br>I’m currently le
 <br>
 <br>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-## 📊 GitHub Stats:
+<br>
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=antancelin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=antancelin&theme=dark&hide_border=false)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=antancelin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=antancelin&icon=5&color=10)](https://visitcount.itsvg.in)
