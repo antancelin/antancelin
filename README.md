@@ -1,9 +1,12 @@
 # 👨🏻‍💻 About Me:
 Hi there 👋<br><br>I'm Antoine, AI developer. ⚛️<br><br>I’m currently learning full-stack engineering w/ Codecademy. 🖥
 
+<br>
 
 ### 🌐 Socials:
 [linkedin](https://linkedin.com/in/antancelin) [twitter](https://x.com/antancelin) [instagram](https://instagram.com/antancelin)
+
+<br>
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,6 +28,8 @@ Hi there 👋<br><br>I'm Antoine, AI developer. ⚛️<br><br>I’m currently le
 <br>
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=antancelin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=antancelin&icon=5&color=10)](https://visitcount.itsvg.in)
