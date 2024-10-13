@@ -7,7 +7,10 @@ I’m currently learning full-stack dev & mobile at [Le Reacteur](https://github
 <br>
 Looking for a work-study or internship as a full-stack / back-end / front-end developer (JavaScript). 📱
 <br>
-### 🌐 Socials:
+### 🌐 Contact
+[→ Personnal Website](https://antoineancelin.com) 
+<br>
+#### Socials ⤵
 [linkedin](https://linkedin.com/in/antancelin) [twitter](https://x.com/antancelin) [instagram](https://instagram.com/antancelin)
 
 <br>
