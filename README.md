@@ -11,7 +11,7 @@ Looking for a work-study or internship as a full-stack / back-end / front-end de
 [→ Personnal Website](https://antoineancelin.com) 
 <br>
 #### Socials ⤵
-[linkedin](https://linkedin.com/in/antancelin) [twitter](https://x.com/antancelin) [instagram](https://instagram.com/antancelin)
+[linkedin](https://linkedin.com/in/antancelin) [twitter](https://x.com/antancelin)
 
 <br>
 
