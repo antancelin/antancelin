@@ -5,7 +5,7 @@ I'm Antoine, AI developer. ⚛️
 <br>
 I’m currently learning full-stack dev & mobile at [Le Reacteur](https://github.com/lereacteur). 🖥
 <br>
-Looking for a work-study or internship as a full-stack / back-end / front-end developer (JavaScript). 📱
+Looking for a work-study or internship as a full-stack / back-end / front-end developer. 📱
 <br>
 ### 🌐 Contact
 [→ Personnal Website](https://antoineancelin.com) 
