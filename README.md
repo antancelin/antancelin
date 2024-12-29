@@ -1,7 +1,7 @@
 # 👨🏻‍💻 About Me:
 Hi there 👋
 <br>
-I'm Antoine, AI developer. ⚛️
+I'm Antoine, Full-Stack & AI developer. 💻
 <br>
 I’m currently learning full-stack dev & mobile at [Le Reacteur](https://github.com/lereacteur). 🖥
 <br>
