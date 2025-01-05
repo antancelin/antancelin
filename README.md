@@ -17,7 +17,3 @@ Looking for a work-study or internship as a full-stack / back-end / front-end de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antancelin&theme=tokyonight)
 <br>
-
----
-[![](https://visitcount.itsvg.in/api?id=antancelin&icon=5&color=10)](https://visitcount.itsvg.in)
-
