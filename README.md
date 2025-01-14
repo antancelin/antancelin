@@ -3,9 +3,7 @@ Hi there 👋
 <br>
 I'm Antoine, Full-Stack & AI developer. 💻
 <br>
-I’m currently learning full-stack dev & mobile at [Le Reacteur](https://github.com/lereacteur). 🖥
-<br>
-Looking for a work-study or internship as a full-stack / back-end / front-end developer. 📱
+I’m currently learning full-stack dev web & mobile at [Le Reacteur](https://github.com/lereacteur). 🖥
 <br>
 ### 🌐 Contact
 [→ Personnal Website](https://antoineancelin.com) 
