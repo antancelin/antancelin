@@ -5,7 +5,6 @@ Hi there 👋
 I'm Antoine, Full-Stack & AI developer. 💻
 <br>
 I’m currently learning full-stack dev web & mobile at [Le Reacteur](https://github.com/lereacteur). 🖥
-
 <br>
 
 ### 🌐 Contact
