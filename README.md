@@ -8,7 +8,7 @@ Frontend Engineer Apprentice @ [Deezer](https://deezer.com) 🎧
 I’m currently learning full-stack dev web & mobile @ [Le Reacteur](https://github.com/lereacteur) 🚀
 <br>
 
-Working on full-stack and AI development in my free time 💻
+Working on full-stack projects in my free time 💻
 
 ### 🌐 Contact
 [→ Personnal Website](https://antoineancelin.com)
