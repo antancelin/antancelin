@@ -15,8 +15,3 @@ Working on full-stack projects in my free time 💻
 <br>
 #### Socials ⤵
 [linkedin](https://linkedin.com/in/antancelin) [twitter](https://x.com/antancelin)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antancelin&theme=tokyonight)
-<br>
