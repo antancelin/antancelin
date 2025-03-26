@@ -10,8 +10,8 @@ I’m currently learning full-stack dev web & mobile @ [Le Reacteur](https://git
 
 Working on full-stack projects in my free time 💻
 
-### 🌐 Contact
+<!--- ### 🌐 Contact
 [→ Personnal Website](https://antoineancelin.com)
-<br>
+<br>--->
 #### Socials ⤵
 [linkedin](https://linkedin.com/in/antancelin) [twitter](https://x.com/antancelin)
