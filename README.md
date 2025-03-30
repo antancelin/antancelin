@@ -1,14 +1,14 @@
 # 👨🏻‍💻 About Me:
-Hi there, I'm Antoine 👋
+hi there, I'm Antoine 👋
 <br>
 
-Frontend Engineer Apprentice @ [Deezer](https://deezer.com) 🎧
+frontend engineer apprentice @ [deezer](https://deezer.com) 🎧
 <br>
 
-I’m currently learning full-stack dev web & mobile @ [Le Reacteur](https://github.com/lereacteur) 🚀
+currently learning full-stack dev web & mobile @ [le reacteur](https://github.com/lereacteur) 🚀
 <br>
 
-Working on full-stack projects in my free time 💻
+also started working as a free lance 🚀
 
 <!--- ### 🌐 Contact
 [→ Personnal Website](https://antoineancelin.com)
