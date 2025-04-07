@@ -1,6 +1,4 @@
-# 👨🏻‍💻 About Me:
-hi there, I'm Antoine 👋
-<br>
+## hi there, I'm Antoine 👋
 
 frontend engineer apprentice @ [deezer](https://deezer.com) 🎧
 <br>
