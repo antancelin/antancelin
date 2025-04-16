@@ -8,8 +8,8 @@ currently learning full-stack dev web & mobile @ [le reacteur](https://github.co
 
 also started working as a free lance 💻
 
-<!--- ### 🌐 Contact
+
 [→ Personnal Website](https://antoineancelin.com)
-<br>--->
+<br>
 #### Socials ⤵
 [linkedin](https://linkedin.com/in/antancelin) [twitter](https://x.com/antancelin)
