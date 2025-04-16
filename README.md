@@ -11,5 +11,5 @@ also started working as a free lance 💻
 
 [→ personnal website](https://antoineancelin.com)
 <br>
-#### Socials ⤵
+#### socials ⤵
 [linkedin](https://linkedin.com/in/antancelin) [twitter](https://x.com/antancelin)
