@@ -3,7 +3,7 @@
 frontend engineer apprentice @ [deezer](https://deezer.com) 🎧
 <br>
 
-currently learning full-stack dev web & mobile @ [le reacteur](https://github.com/lereacteur) 🚀
+currently learning *full-stack dev web & mobile* @ [le reacteur](https://github.com/lereacteur) 🚀
 <br>
 
 also started working as a free lance 💻
